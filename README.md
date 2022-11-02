@@ -1,6 +1,4 @@
-# kinslayer-mud-2004-11-10
-
-## Overview
+# Overview
 
 This repository contains the source code for a version of
 KinslayerMUD from November 2004. The game was originally
@@ -15,9 +13,16 @@ boot up fully and log in. Included are two zones and necessary
 mobs, objects, rooms, etc. The first character to register will
 be promoted to the maximum level of 105.
 
-## Running the game
+The source code has been modified slightly to achieve the following:
+1) Bug fixes to support 64-bit CPU architecture. One bug in particular in buffer.cpp tried to round the buffer size to the nearest power of 2, but did not work properly using the 64-bit unsigned integer `size_t`.
+2) Compiling using C++ 20x
+3) Fixes for some memory leaks & corruption reported by Valgrind
+4) Resolving some compiler warnings. As of now many more still remain but are mostly benign in its current state.
+5) Parsing library files wither either \r\n or \n line endings. This version of the game ran primarily on Linux and did not need to support carriage returns
 
-### Using CLion
+# Running the game
+
+## Using CLion
 
 Included is a `CMakeList.txt` file that can be used to build &
 run the game with the CLion IDE:
@@ -31,7 +36,7 @@ run the game with the CLion IDE:
 7) Click `Apply` & `OK`
 8) Run the game by selecting `Run -> Run 'kinslayer-mud-2004-11-10'`
 
-### Using Docker
+## Using Docker
 
 From a command line terminal:
 
