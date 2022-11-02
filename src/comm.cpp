@@ -1971,7 +1971,7 @@ void write_to_output(struct descriptor_data *t, const char *txt, ...)
 	if(!t || !txt)
 		return;
 
-	vwrite_to_output(t, FALSE, txt, va_list());
+	vwrite_to_output(t, FALSE, txt, {});
 
 }
 

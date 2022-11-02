@@ -25,6 +25,7 @@
 #include "house.h"
 #include "dg_scripts.h"
 #include "olc.h"
+#include "binary.h"
 
 /**************************************************************************
 *  declarations of most of the 'global' variables                         *
@@ -417,7 +418,7 @@ void boot_db(void)
 	}
 
 	reset_q.head = reset_q.tail = nullptr;
-	boot_time = time(0);
+	boot_time = time(nullptr);
 //	convert_from_binary();
 	log("Boot db -- DONE.");
 }
@@ -479,7 +480,7 @@ void reset_time(void)
 }
 
 /* generate index table for the player file -Galnor */
-void build_player_index(void)
+void build_player_index()
 {
 	FILE *index;
 	char line[MAX_STRING_LENGTH], name[MAX_INPUT_LENGTH];

@@ -59,4 +59,4 @@ add_executable(kinslayer-mud-2004-11-10
         src/utils.cpp
         src/weather.cpp
         src/zedit.cpp
-)
+        src/binary.h)

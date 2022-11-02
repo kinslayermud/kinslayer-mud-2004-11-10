@@ -4,7 +4,7 @@ ARG DEBIAN_FRONTEND=noninteractive
 
 # Install pre-requisites
 RUN apt update
-RUN apt install cmake g++ gcc wget dos2unix nano less telnet valgrind -y
+RUN apt install cmake g++ gcc nano less telnet valgrind -y
 
 WORKDIR /kinslayer
 RUN ulimit -S -c unlimited

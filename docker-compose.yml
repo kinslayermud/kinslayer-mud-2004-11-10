@@ -2,8 +2,8 @@ version: "3.3"
 
 services:
   game:
-    container_name: game.kinslayermud.org
-    hostname: game.kinslayermud.org
+    container_name: game20221110.kinslayermud.org
+    hostname: game20221110.kinslayermud.org
     privileged: true
     environment:
       - GCC_THREADS=${GCC_THREADS}

@@ -9,8 +9,8 @@ CXREF = cxref
 
 # Any special flags you want to pass to the compiler
 MYFLAGS = \
--O0 -std=c++2a -Wformat-security -Wformat -Wpointer-arith \
--Wcast-align -Wredundant-decls -Wcatch-value
+-O0 -std=c++0x -lstdc++ -Wformat-security -Wformat -Wpointer-arith \
+-Wcast-align -Wredundant-decls
 
 #flags for profiling (see hacker.doc for more information)
 PROFILE = 
@@ -23,7 +23,7 @@ BINDIR = ../bin
 
 CPPFLAGS = -ggdb3 $(MYFLAGS) $(PROFILE)
 
-LIBS =  -lcrypt 
+LIBS = -lcrypt
 
 OBJDIR = obj
 
@@ -52,6 +52,7 @@ CXREF_FILES = act.comm.cpp act.informative.cpp act.item.cpp act.movement.cpp \
 	hedit.cpp aedit.cpp kedit.cpp alias.cpp buffer.cpp
 
 $(OBJDIR)/%.d: %.cpp
+	@mkdir -p $(@D)
 	$(SHELL) -ec '$(CC) -MM $(CPPFLAGS) $< | \
 	sed '\''s,\($*\)\.o[ :]*,$(OBJDIR)\/\1.o $@ : ,g'\'' > $@'
 
@@ -60,15 +61,20 @@ default: all
 -include $(OBJFILES:.o=.d)
 
 $(OBJDIR)/%.o: %.cpp
+	@mkdir -p $(@D)
 	$(CC) $(CPPFLAGS) -c	$<	-o $@
 
 all:
+	@mkdir -p ../bin
 	$(MAKE) $(BINDIR)/kinslayer
 	$(MAKE) utils
 
 utils:
+	@mkdir -p ../bin
 	(cd util; $(MAKE) all)
+
 kinslayer:
+	@mkdir -p ../bin
 	$(MAKE) $(BINDIR)/kinslayer
 
 $(BINDIR)/kinslayer : $(OBJFILES)
