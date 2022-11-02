@@ -1,0 +1,206 @@
+#500
+Guardian~
+the Guardian of Life~
+The Guardian of Life stands here, ever vigilant.
+~
+   This man keeps watch over all walks of life, in the past, the present, and
+the future.  He willingly offers assistance to those lost souls that are in
+need, and welcomes you to the Crossroads.    
+~
+11 0 0 0 0 0 0 0 0 E
+99 0 0 30d1000+10000 30d100+50
+0 0
+8 8 1 0 0 0 0 50 0 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+T 1100
+T 500
+#505
+mob unfinished~
+Rhadam Aswana~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+5 0 0 1d1+0 1d1+0
+0 0
+8 8 0 0 0 0 0 100 0 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+E
+#507
+ravenmessagemob raven~
+a raven bearing a message~
+A raven is here, ready to transfer messages along.
+~
+It looks unfinished.
+~
+8 0 0 0 2048 0 0 0 0 E
+0 0 0 1d1+0 1d1+0
+0 0
+8 8 0 0 0 0 0 100 0 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+E
+#550
+darkfriend~
+darkfriend message mob~
+There is a darkfriend message mob here.
+~
+A dark tattooed man looks you over with a gleam of suspicion in his eye.  A
+tattoo of a six-pointed star marks the back of his right hand, and the marks of
+his clan on the other.  He turns away from you and continues about his
+business.    
+~
+10 0 0 0 2048 0 0 0 0 E
+30 0 0 0d0+5000 1d1+0
+0 30
+8 8 0 0 100 2 100 100 0 9 3 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+T 506
+T 1000
+#551
+darkside darkfriend message~
+the darkside message mob~
+The darkside message mob is here.
+~
+Say are there any messages.  This will check for any messages from darkfriends
+and give them to you.  Say send this message to (darkfriends name) (insert
+message;here).  This will send a message to the darkfriend via raven.    
+~
+10 0 0 0 2048 0 0 0 0 E
+30 0 0 1d1+100 1d1+0
+0 0
+8 8 0 0 100 100 100 100 0 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+T 507
+T 508
+#552
+strange man~
+a strange man~
+A strange looking man stands off to the side.
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+5 0 0 1d1+1000 10d10+0
+0 0
+8 8 0 5 0 0 0 100 0 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+E
+T 1000
+#553
+villagermob villager zyraktest~
+a villager mob~
+A normal looking villager mob is here, doing nothing.
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+5 0 0 1d1+0 1d1+0
+0 0
+8 8 0 0 0 0 0 100 0 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+E
+#554
+militiamob militia zyraktest~
+a militia mob~
+A militia mob is here, ready to kill some shit.
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+5 0 0 1d1+0 1d1+0
+0 0
+8 8 0 0 0 0 0 100 0 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+E
+#555
+soldier veteran~
+a veteran soldier~
+A veteran soldier of the blight is here, searching for shadow spawn.
+~
+Evil, plain evil.
+~
+266 0 0 0 18432 0 0 0 0 E
+50 0 0 1d1+600 1d1+4
+20 100000
+8 8 1 0 115 220 200 100 0 9 0 2
+0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+BareHandAttack: 13
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+E
+#556
+commander soldier officer~
+a hardened commander~
+A hardened commander stands here, issuing orders.
+~
+Evil.
+~
+394 0 0 0 18432 0 0 0 0 E
+90 0 0 1d1+1000 1d1+4
+2 1000000
+8 8 0 0 80 200 200 100 0 9 0 3000
+0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+E
+$

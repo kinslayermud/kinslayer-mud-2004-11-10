@@ -1,0 +1,515 @@
+#1
+bunny rabbit~
+a rabbit~
+A cute little bunny rabbit hops about here.
+~
+   Looking up at you, the fuzzy wuzzy cute wittle wabbit wiggles its nose at
+you.  Its covered with soft white fur, making you want to hug and cuddle it.  
+
+~
+67174472 0 0 0 0 0 0 0 1000 E
+5 0 0 1d1+10 1d1+1
+0 1
+8 8 1 4 100 0 0 100 6253004 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BareHandAttack: 8
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+#2
+servant immortals~
+a servant of the immortals~
+A servant of the immortals is here, doing some duties.
+~
+This man is just a lowely servant to the immortals, who have taken him
+prisoner.    
+~
+1048587 0 0 0 0 0 0 0 0 E
+51 0 0 30d2+600 2d10+50
+0 14023
+8 8 1 5 0 130 140 50 6253004 9 2 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+T 10
+#3
+taim mazrim~
+Mazrim Taim~
+Mazrim Taim, M'Hael of the Black Tower stands here, blue and silver dragons climbing his coat sleeves.
+~
+Mazrim Taim stands here, his face a sign of death, his movements swift and
+exact, try if you dare.  For he shall conquer all the world.    
+~
+4744761 0 0 0 0 0 0 0 -600 E
+30 0 0 4d6+1200 4d3+0
+4 104325
+8 8 1 5 50 40 35 50 6503380 9 3 3
+0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+BareHandAttack: 9
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+T 325
+#4
+cloaked man~
+a darkly cloaked individual~
+A darkly cloaked individual is here peering around.
+~
+A man is standing here peering out from underneath his black hooded cloak.  
+His hands folded in the sleeves of his cloak appear to be holding a dagger,
+ready to defend himself if need be.    
+~
+267 0 0 0 0 0 0 0 -500 E
+45 0 0 5d10+300 3d6+9
+2032 10423
+8 8 1 0 100 0 0 50 6503380 9 0 8100
+0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BareHandAttack: 11
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+T 323
+#5
+tree ancient~
+an ancient tree~
+An ancient tree is here, blowing in the wind.
+~
+A giant moss covered tree stands here a lot taller then any of the other trees.
+Looming over you with its moss covered bark and large arm-like limbs, this tree
+leaves you an eerie feeling.  It looks like this tree has been here since the
+first turn of the wheel.
+~
+16777226 0 0 0 2048 0 0 0 0 E
+30 0 0 5d10+350 4d4+3
+0 400000
+8 8 0 4 170 0 0 50 6253004 9 0 0
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BareHandAttack: 10
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+#6
+tree rotting rotten tall~
+a rotting tree~
+A tall, rotting tree is here, leaning to one side.
+~
+This tree bends with the weight of its own limbs and creaks as if falling to
+the ground.  Its writhered leaves shake in the wind and fall to the ground.  
+Under foot their rotting leaves emit a foul smell of death and decay.    
+~
+10 0 0 0 2048 0 0 0 0 E
+30 0 0 10d10+550 4d4+1
+0 400000
+8 8 1 5 170 40 0 50 6253004 9 0 0
+0 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+#7
+logain false dragon~
+Logain, the False Dragon~
+Logain, the False Dragon is standing here.
+~
+This man seems to cackle with madness.  His fit body the prisoner to another
+mans mind.  He looks about himself and arogantly looks down on others.  His
+tight fitting jacket molded to his body.    
+~
+20120 0 0 0 3072 0 0 0 0 E
+70 0 0 10d10+2000 4d6+4
+2 50000
+8 8 1 0 100 40 40 100 6503380 9 3 5
+0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+E
+T 94
+#8
+man Noam deranged~
+Noam~
+A deranged looking man sits here, he sits almost like a wolf, back on his haunches, a deranged look to him.
+~
+Barely recognizable as a man is Noam.  Any human thought is lost to him.  In
+his mind he is completely a wolf.    
+~
+16785690 0 0 0 2048 0 0 0 0 E
+99 0 0 1d1+1000 4d7+1
+0 100000
+8 8 1 0 200 120 180 100 6253004 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+T 1307
+T 1306
+T 1308
+#9
+exp~
+some exp~
+Some exp is here ready to be collected.
+~
+This little word is here waiting to level up some little person.  Many of those
+little numbers you look at have accumulated to create this word and give you
+lots of its self to you!    
+~
+8 0 0 0 0 0 0 0 0 E
+30 0 0 1d1+1 1d1+0
+0 1410065408
+8 8 0 5 1 1 1 50 6253004 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+#10
+man male whore~
+a hairy male whore~
+A hairy male whore is here.
+~
+This clone is nothing to look at.  No, really, it is quite boring.
+~
+1054730 0 0 0 0 0 0 0 0 E
+60 0 0 10d10+1000 2d2+1
+0 0
+8 8 1 0 20 0 0 50 6253004 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+T 320
+#11
+pimp male man~
+a fat pimp~
+A big fat pimp in purple clothes stands here, looking at Xavaa.
+~
+This strange humanoid is moving rather slowly, and appears to be
+a corpse, a walking corpse!  It must be a zombie or something of
+the sort.
+~
+1054808 0 0 0 0 0 0 0 0 E
+60 0 0 10d10+4000 2d2+1
+20 50000
+8 8 1 0 20 0 30 50 6253004 9 0 0
+0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+BareHandAttack: 7
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+T 551
+#12
+wagon driver tall~
+a tall wagon driver~
+A tall wagon driver is here, offering to take you for a ride.
+~
+This wagon driver looks hard and weather worn. His face is wrinkled from forhead to his three chins hanging below his mouth. His beady eyes look you over and wonder if your worth the trouble.
+~
+6170 0 0 0 0 0 0 0 0 E
+30 0 0 10d10+1000 2d2+0
+2000 300000
+8 8 1 0 20 0 40 100 6253004 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+T 322
+T 400
+#13
+dreadlord smirks aura power~
+the Dreadlord~
+A Dreadlord smirks here, an aura of power about him.
+~
+It looks unfinished.
+~
+1726 0 0 0 442384 0 0 0 0 E
+60 0 0 10d10+7000 5d7+4
+100 100000
+8 8 1 1 100 130 130 300 6502960 9 5 13
+0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BareHandAttack: 12
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+E
+T 5000
+T 5002
+#14
+A decayed corpse, oozing with gore~
+a decayed corpse, oozing with gore~
+A decayed corpse, oozing with gore walks here screaming for blood.
+~
+It looks unfinished.
+A decrepit and decayed corpse stands here, covered in blood and gore
+from the remains of humans who ventured too far into the Great Blight
+many years ago.
+It has a deranged look in it's eye as it twirls it's ruby marked dagger.
+~
+264 0 0 0 0 0 0 0 0 E
+50 0 0 30d50+180 30d50+0
+5000 100000
+8 8 0 0 200 0 0 100 6253004 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BareHandAttack: 6
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+#15
+mob unfinished~
+the unfinished mob~
+A wailing corpse screams for human flesh.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+45 0 0 30d45+3000 30d45+0
+4000 80000
+8 8 0 0 150 0 0 100 6253004 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BareHandAttack: 4
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+#19
+aerial servant shape~
+the aerial servant~
+An amorphous shape is floating in the air.
+~
+As you stare at this amorphous shape, it begins to appear to take
+the shape of a cloud-like humanoid.
+~
+10 0 0 0 0 0 0 0 0 E
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0 0 0 0 0 50 6253004 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+#20
+elemental~
+the elemental~
+An elemental is standing patiently here.
+~
+This creature is the essence of the elements, and appears to be
+waiting patiently for something to occur.
+~
+10 0 0 0 0 0 0 0 0 E
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0 0 0 0 0 50 6253004 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+#47
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 0 1d1+0 1d1+0
+0 0
+8 8 0 0 0 0 0 100 6253004 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+E
+#55
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 0 1d1+0 1d1+0
+0 0
+8 8 0 0 0 0 0 100 6253004 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+E
+#60
+mercenary~
+a mercenary for hire~
+A mercenary for hire stands here.
+~
+This older looking man is here selling his services as a protector of people.
+He looks as though he was once in some military force and has now retired to
+become this, a mercenary for whoever will pay the highest price.    
+~
+170188 0 0 0 0 0 0 0 0 E
+20 0 0 10d10+250 2d1+0
+2 10000
+8 8 1 0 0 30 60 100 6253004 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+E
+T 320
+#79
+rat~
+a large rat~
+A large rat is here scurrying out of sight.
+~
+It looks unfinished.
+~
+72 0 0 0 0 0 0 0 0 E
+1 0 0 1d4+20 1d4+0
+0 2000
+8 8 1 4 50 0 0 100 6253004 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+E
+#84
+servant black mass~
+Ruinvar's floating mass of darkness~
+A mass of darkness floats here.
+~
+This thing is simply a floating black mass of darkness.  Light is pulled toward
+it and your vision is warped if you look near it.  Two yellow balls float
+freely around its surface and sparks fly off it accationally.    
+~
+17950 0 0 0 0 0 0 0 0 E
+100 0 0 1d1+30000 30d1+50
+0 0
+8 8 0 5 10000 10000 200 100 6253004 9 8 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BareHandAttack: 9
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+E
+T 18910
+T 18911
+T 18912
+T 10599
+#98
+Doom~
+Doom~
+An odd feeling of Doom passes looms in the room.
+~
+  Your not sure what it is, but you have an odd feeling
+of up coming doom...it fills the air and you can't help
+but shrink back from it.
+~
+4106 0 0 0 0 0 0 0 0 E
+40 0 0 1d4+4000 5d1+20
+0 100000
+8 8 0 0 0 0 0 50 6253004 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BareHandAttack: 10
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+#99
+death reaper~
+Death~
+Death the Grim Reaper is observing you silently from empty eye sockets.
+~
+The dark-robed skeletal figure radiates an unendurable coldness.
+~
+256026 0 0 0 33960 0 0 0 0 E
+30 0 0 1d1+665 10d15+20
+0 500000
+8 8 0 0 0 0 0 50 6253004 9 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+E
+$

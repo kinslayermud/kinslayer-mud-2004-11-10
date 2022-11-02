@@ -1,0 +1,145 @@
+#500
+stone fountain~
+a stone fountain~
+A large stone fountain is here.~
+~
+23 0 0 0 0 0 0 0 0 0
+100000 1000000 0 0
+1000005 100000 0 0 0 0 0
+#501
+well~
+a deep stone well~
+A deep stone well is standing here.~
+~
+23 0 0 0 0 0 0 0 0 0
+100000 1000000 0 0
+1000005 100000 0 0 0 0 0
+#502
+river underground~
+an underground river~
+An underground river rushes by.~
+~
+23 0 0 0 0 0 0 0 0 0
+100000 100000 0 0
+0 0 0 0 0 0 0
+#503
+lake crystal clear~
+a crystal clear lake~
+A crystal clear lake is here.~
+~
+23 0 0 0 0 0 0 0 0 0
+100000 100000 0 0
+0 0 0 0 0 0 0
+#510
+chain rusted metal~
+a rusted metal chain~
+A metal chain lies here, covered in rust.~
+~
+5 131072 0 0 0 8193 0 0 0 0
+6 4 4 6
+12 1000 0 65 -15 -20 0
+#511
+chain dull~
+a dull metal chain~
+A dull metal chain lies here.~
+~
+5 131072 0 0 0 8193 0 0 0 0
+6 4 5 6
+14 0 0 85 -20 -30 0
+#512
+chain scythe silver~
+a silver etched chain scythe~
+A long chain scythe lies here, etched with silver.~
+~
+5 131072 0 0 0 8193 0 0 0 0
+6 5 4 6
+15 0 0 115 0 0 0
+#513
+chain steel~
+a two-handed blackened steel chain~
+A massive chain of blackened steel lies here.~
+~
+5 1179648 0 0 0 8193 0 0 0 0
+6 5 5 6
+17 0 0 126 -50 -40 0
+#514
+chain DS unique~
+a long golden chain forged in Shayol Ghul~
+A long golden chain forged in Shayol Ghul, lies here.~
+~
+5 1441792 0 0 0 8193 0 0 0 0
+6 6 5 5
+18 0 0 130 -50 -50 0
+#540
+lance short rusty~
+a short rusty lance~
+A short rusty lance is setting here on the ground.~
+~
+5 1048576 0 0 0 8193 0 0 0 0
+8 2 2 14
+8 400 0 78 72 0 0
+#541
+long light lance~
+a long light lance~
+A long light-weight lance is setting here.~
+~
+5 1048576 0 0 0 8193 0 0 0 0
+8 2 2 1
+6 500 0 82 75 0 0
+#542
+shiny copper lance~
+a shiny copper lance~
+A lance made of shiny copper is setting here.~
+~
+5 1048576 0 0 0 8193 0 0 0 0
+8 3 3 14
+9 1200 0 108 119 0 0
+#543
+curved silver lance~
+a curved silver lance~
+A curving lance with a silver tip is laying here.~
+~
+5 1048576 0 0 0 8193 0 0 0 0
+8 3 4 14
+10 3000 0 114 128 0 0
+#544
+sharp ruby lance~
+a sharp ruby lance~
+Glittering in the sun, a sharp ruby lance sets here, waiting to be used.~
+~
+5 1048576 0 0 0 8193 0 0 0 0
+8 4 4 10
+12 42000 0 116 142 -2 0
+#545
+long golden lance~
+a long golden lance~
+A long golden lance sets here, waiting for a bearer.~
+~
+5 1048576 0 0 0 8193 0 0 0 0
+8 7 3 10
+14 100000 0 123 136 -1 0
+#546
+thick metal lance~
+a thick metal lance~
+A lance made of thick metal is setting here.~
+~
+5 1048576 0 0 0 8193 0 0 0 0
+8 4 3 10
+15 3000 0 111 15 -10 0
+#547
+heavy lance polished silver~
+a heavy lance made of polished silver~
+A polished silver lance is on the ground.~
+~
+5 1048576 0 0 0 8193 0 0 0 0
+8 4 4 10
+14 20000 0 112 0 0 0
+#548
+long dark steel lance~
+a dark steel lance~
+A long dark steel lance is here, absorbing the nearby light.~
+~
+5 1048576 0 0 0 8193 0 0 0 0
+8 6 3 10
+17 86000 0 120 2 -12 0
+$~

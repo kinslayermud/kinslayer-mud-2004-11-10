@@ -1,0 +1,32 @@
+How to use OLC:
+
+REDIT - Edits the room you are standing in if not given an argument.  If given an argument, will edit that room.  If the room does not exist, use REDIT to create it.  IE: REDIT 101
+
+OEDIT <vnum> - Edits the specified object.
+
+ZEDIT - Edits the zone you are standing in.
+
+MEDIT <vnum> - Edits the specified mob.  (If you want a specialised mob, mail me with what you want it to do and i'll tell you whether or not it can be done anytime soon.)
+
+TEDIT - Please do not mess with this unless you have experience.
+
+SEDIT <vnum> - Edits the specified shop.
+%s = character's name
+%d = amount of gold
+
+
+Please remember to SAVE your work whenever you are done.  Do so by typing REDIT SAVE <zone number> if you worked on a room.  OEDIT SAVE <zone number> if you worked on an object, etc.
+Type OLC to check whether or not your zone information has been saved.
+
+DIG:  Used by typing DIG <direction> <vnum>.  First create a room, than dig into that room from another to create a two-way exit.  Simplifies having to go into both rooms and making exits that way.
+
+Guide for Equipment (by Stark)
+I've been editing weapons and equipment a bit. For the time being we're only going to have 3 items of each type, to keep things simple. Please use the weapons and equipment I create on all your mobs for consistency. I'll edit this list as I go.
+- DAGGERS: IDs 2500-2519
+- SWORDS: IDs 2520-2539
+- AXES: IDs 2540-2559
+- SHIELDS: IDs 2600-2619
+ hopefully once we get a good basic system going we'll be able to expand. Cheers =)
+
+
+

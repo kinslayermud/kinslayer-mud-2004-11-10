@@ -1,0 +1,62 @@
+cmake_minimum_required(VERSION 3.17)
+project(kmud_2004_02)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(kmud_2004_02
+        src/act.comm.cpp
+        src/act.informative.cpp
+        src/act.item.cpp
+        src/act.movement.cpp
+        src/act.offensive.cpp
+        src/act.other.cpp
+        src/act.social.cpp
+        src/act.wizard.cpp
+        src/aedit.cpp
+        src/alias.cpp
+        src/ban.cpp
+        src/boards.cpp
+        src/buffer.cpp
+        src/class.cpp
+        src/comm.cpp
+        src/config.cpp
+        src/constants.cpp
+        src/db.cpp
+        src/dg_comm.cpp
+        src/dg_db_scripts.cpp
+        src/dg_event.cpp
+        src/dg_handler.cpp
+        src/dg_mobcmd.cpp
+        src/dg_objcmd.cpp
+        src/dg_olc.cpp
+        src/dg_scripts.cpp
+        src/dg_triggers.cpp
+        src/dg_wldcmd.cpp
+        src/fight.cpp
+        src/graph.cpp
+        src/handler.cpp
+        src/hedit.cpp
+        src/house.cpp
+        src/interpreter.cpp
+        src/kedit.cpp
+        src/limits.cpp
+        src/magic.cpp
+        src/mail.cpp
+        src/medit.cpp
+        src/mobact.cpp
+        src/modify.cpp
+        src/objsave.cpp
+        src/oedit.cpp
+        src/olc.cpp
+        src/random.cpp
+        src/redit.cpp
+        src/sedit.cpp
+        src/shop.cpp
+        src/spec_assign.cpp
+        src/spec_procs.cpp
+        src/spell_parser.cpp
+        src/spells.cpp
+        src/utils.cpp
+        src/weather.cpp
+        src/zedit.cpp
+)

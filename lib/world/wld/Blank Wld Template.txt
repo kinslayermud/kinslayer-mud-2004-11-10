@@ -1,0 +1,11 @@
+#18800
+The Control Center~
+This is the control room for the entire world.  Don't touch anything!
+~
+0 1176 0 0 0 0
+E
+around~
+You don't anything here.  Weird, for a control room!?!
+~
+S
+$~

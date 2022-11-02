@@ -1,0 +1,23 @@
+version: "3.3"
+
+services:
+  game:
+    container_name: game.kinslayermud.org
+    hostname: game.kinslayermud.org
+    privileged: true
+    environment:
+      - GCC_THREADS=${GCC_THREADS}
+    build:
+      context: ./
+      args:
+        - GCC_THREADS=${GCC_THREADS}
+    ports:
+      - 2222:2222
+    volumes:
+      - ./:/kinslayer/:delegated
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    ulimits:
+      core:
+        soft: -1
+        hard: -1

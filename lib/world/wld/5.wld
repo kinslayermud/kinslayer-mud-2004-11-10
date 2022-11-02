@@ -1,0 +1,107 @@
+#500
+Crossroads of Fate~
+WELCOME TO KINSLAYER!  
+TYPE 'KIT' FOR A STARTER KIT OF EQUIPMENT.
+OFFICIAL IRC CHANNEL AT irc.  Modblog.  Com port 6667 #kinslayer
+TYPE NEWS FOR A LIST OF NEW STUFF.
+TYPE POLICY FOR THE CURRENT MUD POLICY.  
+SAY 'FOOD' TO BE GIVEN SOME FOOD.    
+
+FORUMS AT: http://sabbath.yi.org:9000/phpBB2/index.php
+~
+5 65688 0 0 0 0
+D0
+~
+~
+0 0 19555 0
+D1
+~
+~
+0 0 8416 0
+D2
+~
+~
+0 0 1700 0
+D3
+~
+~
+0 0 4000 0
+D5
+~
+~
+0 0 100 0
+E
+around~
+You don't anything here.  Weird, for a control room!?!
+~
+S
+T 521
+#501
+The Mob's Circle of Light~
+   This is the CoL for mobs.    
+~
+5 0 0 0 0 0
+S
+#502
+Crossway of Shadows~
+WELCOME TO KINSLAYER!  
+TYPE 'KIT' FOR A STARTER KIT OF EQUIPMENT.
+IRC CHANNEL AT: irc.modblog.com:6667 - #shadar
+TYPE NEWS FOR A LIST OF NEW STUFF.
+TYPE POLICY FOR THE CURRENT MUD POLICY.  
+SAY 'FOOD' TO BE GIVEN SOME FOOD.    
+
+FORUMS AT: http://sabbath.yi.org:9000/phpBB2/index.php
+~
+5 65680 0 0 0 0
+D0
+~
+~
+0 0 8102 0
+D5
+~
+~
+0 0 8003 0
+S
+T 521
+#505
+Zyrak's Private Bar~
+The first thing you notice is the brilliant tall ceiling in this room.  The
+dark polished wood walls are covered with some of the greatest paintings from
+the age of legends.  A huge polished wood bar stands along one side of the
+room.  Empty bottles of beer lie scattered all over the room.  A small card
+table sits in the middle surrounded by four chairs.  By the mess in this room,
+you wonder what kind of being would dwell in here.    
+~
+5 65552 0 0 0 0
+D1
+~
+~
+0 0 -1 0
+D5
+A large pile of beer bottles lie here.
+~
+bottles~
+1 0 500 50
+S
+#506
+DARKFRIEND MESSAGE ROOM~
+This room is where all the messages from darkfriends are stored until the
+darkside get them.    
+~
+5 0 0 0 0 0
+S
+#507
+DARKSIDE MESSAGE ROOM~
+This room is where all the messages are stored from darkside when the intended
+receiver is not available.    
+~
+5 0 0 0 0 0
+S
+#510
+The Room~
+Your name is not suitable. Please check the number, and try again.
+~
+5 16 0 0 0 1
+S
+$~

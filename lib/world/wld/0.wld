@@ -1,0 +1,410 @@
+#0
+The Void~
+The Void
+~
+0 24 0 0 0 1
+S
+#1
+The Wheel of Time~
+Rogue practice area lies to the west, ranger and warrior to the east, female
+channeler up and male channeler down.  Exit to Fal Dara lies to the NORTH and
+exit to the ruined trolloc keep lies to the SOUTH.    
+~
+0 73756 0 0 0 3
+D0
+~
+~
+0 0 19301 0
+D1
+~
+~
+0 0 4 0
+D2
+~
+~
+0 0 8000 0
+D3
+~
+~
+0 0 2 0
+D4
+~
+~
+0 0 11 0
+D5
+~
+~
+0 0 6 0
+S
+#2
+A Smooth Path~
+You are in an unfinished room.
+~
+0 65560 0 0 0 0
+D1
+~
+~
+0 0 1 0
+D2
+~
+~
+0 0 -1 0
+D5
+~
+~
+0 0 -1 0
+S
+#3
+A Totally Empty Room~
+The walls are completely bare...  Nothing at all in the room.  How...  Utterly
+bizarre and completely weird.  There is a strange portal just above you, and it
+almost looks as if there is some sort of room above you.    
+~
+0 664 0 0 0 0
+D0
+~
+~
+0 0 1 0
+D4
+You notice that the portal above you looks almost like glass,
+albeit very dirty glass.
+~
+~
+0 -1 100 0
+S
+#4
+A Shack Along the Wheel~
+You are in an unfinished room.
+~
+0 65556 0 0 0 1
+D1
+~
+~
+0 0 5 0
+D3
+~
+~
+0 0 1 0
+S
+#5
+The Freezer~
+Beer cans and sodas are scattered all around the giant sized ice cubes which
+fill this room to beyond the roof, somehow.  You see many frozen bodies stuck
+inside some of the large, ice cubes, which the Immortals will soon feed off of
+once they have time.  They are here because they did not know how to obey the
+simple rules, and there are far too many to eat within one day.    
+~
+0 65556 0 0 0 1
+D3
+~
+~
+0 0 4 0
+S
+#6
+THE CENTER OF HELL~
+All around you, you see flames and burning bodies, yet the fires do not consume
+them.  YOU BETTER RUN!    
+~
+0 65664 0 0 0 0
+D4
+~
+~
+0 0 1 0
+S
+#8
+Your dead!~
+You are in an unfinished room.
+DOOMAGE
+~
+0 0 0 0 0 0
+S
+#10
+Prison~
+You did something wrong. Come back in another form.
+~
+0 65712 0 0 0 0
+S
+#11
+The Center of Heaven ~
+You must have been good if you're in heaven.    
+~
+0 65536 0 0 0 0
+D5
+~
+~
+0 0 1 0
+S
+#12
+The Circumference of the Fourth Dimension~
+You are in an unfinished room.
+~
+0 65538 0 0 0 0
+D1
+~
+~
+0 0 6 0
+D5
+~
+~
+0 0 1 0
+S
+#13
+The Fifth Dimension~
+A quiet place, the only thing you can focus on is a computer sitting on
+a desk etched in gold.  The computer appears as if it could do just
+about anything, including Breaking the World, all by itself.
+~
+0 67146 0 0 0 0
+D5
+~
+~
+0 0 1 0
+S
+#14
+The Wheel's Handle~
+Who ever thought something actually turned the Wheel of Time?  This handle is
+the source of the Wheel's energy, causing it to turn for eternity.  You can't
+put a definate size, shape, or color to this handle, yet it does not seem to be
+changing as well.  The Wheel of Time is in all directions from here, as the
+handle sets right in the center, serving as the core of the universe.    
+~
+0 66568 0 0 0 0
+D0
+~
+darkdoor~
+1 0 502 0
+D2
+~
+lightdoor~
+1 0 500 0
+S
+T 592
+#15
+Kimi's Workroom~
+Cluttered with bits and pieces of equipment and... is that a finger?? Perhaps you best to leave, it seems this is the workroom of a mad scientist.
+~
+0 65536 0 0 0 0
+S
+#16
+Atop the Largest Spire of Harrenhal~
+Topping the largest and most impregnable keep of Westeros are six massive
+spires, towering up into the clouds.  The largest of these houses an expansive
+set of apartments, walled entirely with glass.  From here, one can see the
+entire distance to King's Landing to the south, and to the stark wastelands of
+the north.  It is a view never to be rivaled by anything else.    
+~
+0 1048 0 0 0 0
+S
+#20
+The Void~
+High above the actual lands are many clouds.  Almost like a peaceful resting
+place for one who is idle.  The formation of the clouds make it seem at any
+movement would cause you to slip down and fall right back to where you came
+from.  Water from the clouds often spray into the air refreshing you and
+causing you not to want to get up again.    
+~
+0 65536 0 0 0 0
+S
+#21
+A Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+D1
+~
+~
+0 0 500 0
+S
+#25
+King Tut~
+Type 'start' to start the presentation.
+~
+0 0 0 0 0 0
+S
+#29
+Road Beside a Fallen Wall~
+You are in an unfinished room.
+~
+0 0 0 0 0 1
+S
+#30
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+D1
+~
+~
+0 0 1 0
+S
+#33
+An unfinished room~
+You are in an unfinished room.
+~
+0 4 0 0 0 0
+S
+#37
+Secret City Zone~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#50
+T'A'R Test Room.~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+T 1498
+#55
+A Hidden Cavern~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+D0
+~
+~
+0 0 501 0
+D4
+~
+~
+0 0 505 0
+S
+#70
+TAR ANDOR~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#71
+KANAG DREAM~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+D3
+~
+~
+0 0 5770 0
+S
+#72
+LARUA DREAM~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#73
+MALANDRIC DREAM~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+D2
+~
+~
+0 0 5772 0
+S
+#75
+T'A'R TEAR~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#76
+T'A'R WHITE TOWER~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+D0
+~
+~
+0 0 5775 0
+S
+#80
+A Maze of Despair~
+You are in an unfinished room.
+~
+0 144 0 0 0 0
+D0
+~
+~
+0 0 80 0
+D1
+~
+~
+0 0 80 0
+D2
+~
+~
+0 0 80 0
+D3
+~
+~
+0 0 80 0
+D4
+~
+~
+0 0 80 0
+D5
+~
+~
+0 0 80 0
+S
+T 9995
+#84
+A Spinning Vortex~
+This area is simply a spinning vortex of nothing.  Strange lights and various
+items spin their way into the center are never seen again.  Hovering above the
+vortex is a large desk with a chair.  A file cabinet floats beside these,
+papers spilling out of the drawers.  A strange figure sits at the desk.  His
+body is nothing but darkness and he seems to absorb the light.    
+~
+0 66564 0 0 0 0
+S
+#85
+TEST~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#89
+DEFAULT~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+D0
+~
+~
+0 0 5788 0
+S
+#93
+Kinsel Road~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#99
+The Realm Of The Dead~
+   You are standing on an immense, grey stone floor that stretches as far
+as you can see in all directions.  Rough winds plunging from the dark,
+starless sky tear savagely at your fragile body.
+~
+0 536 0 0 0 0
+D2
+~
+~
+0 0 -1 0
+D4
+~
+~
+0 0 1 0
+E
+sky wind winds~
+Cold winds plunge ceaselessly at you from the dark, cloudless sky.
+~
+E
+floor~
+The stone floor is the same shade of grey as the sky and is completely plain
+and unscratched.  It is probably too hard for anything to leave as much as a
+scratch on it.
+~
+S
+$~
