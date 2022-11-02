@@ -2,10 +2,18 @@
 
 ## Overview
 
-The game comes with barebones library files required to run.
-Included are two zones and necessary mobs, objects, rooms, etc.
-The first character to register will be promoted to the maximum
-level ofa level 105.
+This repository contains the source code for a version of
+KinslayerMUD from November 2004. The game was originally
+founded in September 2002, and this version comes shortly
+after the first major player file wipe that occurred in
+the summer of 2004 when the game transitioned from a personal
+computer hosted in Maryland, to a server managed by the user
+named Void.
+
+This repository comes with barebones library files required to
+boot up fully and log in. Included are two zones and necessary
+mobs, objects, rooms, etc. The first character to register will
+be promoted to the maximum level of 105.
 
 ## Running the game
 
