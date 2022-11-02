@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.17)
-project(kmud_2004_02)
+project(kinslayer-mud-2004-11-10)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(kmud_2004_02
+add_executable(kinslayer-mud-2004-11-10
         src/act.comm.cpp
         src/act.informative.cpp
         src/act.item.cpp
