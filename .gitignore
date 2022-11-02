@@ -1,1 +1,5 @@
 .env
+/bin
+/.idea
+/src/obj
+/cmake-build-debug
